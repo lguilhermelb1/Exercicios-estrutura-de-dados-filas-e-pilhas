@@ -11,7 +11,6 @@ package alunosNotas;
  */
 public class Fila {
     
-    private Nota n;
     private No primeiro;
     private No ultimo;
     
